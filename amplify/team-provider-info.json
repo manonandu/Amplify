@@ -1,0 +1,20 @@
+{
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-envone-main-165840-authRole",
+      "UnauthRoleArn": "arn:aws:iam::869347033526:role/amplify-envone-main-165840-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::869347033526:role/amplify-envone-main-165840-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-envone-main-165840-deployment",
+      "UnauthRoleName": "amplify-envone-main-165840-unauthRole",
+      "StackName": "amplify-envone-main-165840",
+      "StackId": "arn:aws:cloudformation:us-west-2:869347033526:stack/amplify-envone-main-165840/35469550-bcdb-11eb-801d-0665d51f899d",
+      "AmplifyAppId": "d184bs7a2obkkr"
+    },
+    "categories": {
+      "auth": {
+        "envoneca1671eb": {}
+      }
+    }
+  }
+}

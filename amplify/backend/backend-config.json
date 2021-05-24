@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "envoneca1671eb": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
